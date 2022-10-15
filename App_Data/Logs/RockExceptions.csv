@@ -1,4 +1,0 @@
-3/5/2016 11:22:38 AM,System.Exception,"An error occurred in Entity Framework when attempting to connect to your database. This could be caused by a missing 'MultipleActiveResultSets=true' parameter in your connection string settings."
-3/5/2016 11:22:38 AM,System.Data.Entity.Core.EntityCommandExecutionException,"An error occurred while executing the command definition. See the inner exception for details."
-3/5/2016 11:22:38 AM,System.Data.SqlClient.SqlException,"Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding."
-3/5/2016 11:22:38 AM,System.ComponentModel.Win32Exception,"The wait operation timed out"
